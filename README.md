@@ -40,7 +40,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a><t>
+  <a href="https://www.linkedin.com/in/sarang-masal-4377a9273/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><t>
   <a href="mailto:sarangmasal.1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
