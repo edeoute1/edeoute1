@@ -11,7 +11,6 @@
 ---
 
 ## 🧠 About Me
-- 🤖 Building **Ball Balancing Robot**
 - 📡 Working with **ESP32, Sensors, Control Systems**
 - 🎯 Learning **Computer Vision + TensorFlow**
 - ⚡ Love combining **Hardware + AI**
