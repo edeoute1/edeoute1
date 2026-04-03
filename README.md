@@ -27,6 +27,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edeoute1&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edeoute1&theme=tokyonight" />
+  <div align="right">
+     <a href="https://www.linkedin.com/in/sarang-masal-4377a9273/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><t>
+  <a href="mailto:sarangmasal.1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  </div>
 </p>
 
 ---
