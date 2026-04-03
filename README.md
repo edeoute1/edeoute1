@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sarang Masal]</h1>
+<h1 align="center">Hi 👋, I'm Sarang Masal :( </h1>
 <h3 align="center">🚀 Robotics Engineer | Embedded Systems | AI Enthusiast | Cybersec Enthusiast | Front-end dev | </h3>
 
 <p align="center">
@@ -71,5 +71,5 @@
 
 ## 🔥 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=edeoute1&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
