@@ -6,7 +6,7 @@
 </p>
 
 ---
-<div>
+
 ## 🧠 About Me
 - 🤖 Building **Ball Balancing Robot**
 - 📡 Working with **ESP32, Sensors, Control Systems**
@@ -15,7 +15,7 @@
  <div align="right">
      <a href="https://www.linkedin.com/in/sarang-masal-4377a9273/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><t></t>
   <a href="mailto:sarangmasal.1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  </div></div>
+  </div>
 
 ---
 
