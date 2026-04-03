@@ -9,13 +9,14 @@
 </p>
 
 ---
-
+<div style="float:left">
 ## 🧠 About Me
 - 🤖 Building **Ball Balancing Robot**
 - 📡 Working with **ESP32, Sensors, Control Systems**
 - 🎯 Learning **Computer Vision + TensorFlow**
 - ⚡ Love combining **Hardware + AI**
- <div align="right">
+</div>
+ <div style="float:right">
      <a href="https://www.linkedin.com/in/sarang-masal-4377a9273/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><t></t>
   <a href="mailto:sarangmasal.1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   </div>
@@ -29,15 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edeoute1&theme=tokyonight" />
- 
-</p>
-
----
-
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edeoute1&theme=tokyo-night" />
@@ -45,7 +37,9 @@
 
 ---
 
-## 🔥 Profile Views
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edeoute1&label=Profile%20views&color=0e75b6&style=flat" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edeoute1&theme=tokyonight" />
+ 
 </p>
