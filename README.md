@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarang Masal :( </h1>
-<h3 align="center">🚀 Robotics Engineer | Embedded Systems | AI Enthusiast | Cybersec Enthusiast | Front-end dev | </h3>
+<h3 align="center">🚀 Robotics Engineer | Embedded Systems | AI Enthusiast | Cybersec Enthusiast | Front-end dev  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Robotics+Engineer;Embedded+Engineer;Computer+Vision+Builder;AI+Explorer&center=true&width=500&height=45">
