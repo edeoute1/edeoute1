@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=edeoute1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 <h1 align="center">Hi 👋, I'm Sarang Masal :( </h1>
 <h3 align="center">🚀 Robotics Engineer | Embedded Systems | AI Enthusiast | Cybersec Enthusiast | Front-end dev  </h3>
 
@@ -39,15 +42,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edeoute1&theme=tokyo-night" />
 </p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarang-masal-4377a9273/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><t>
-  <a href="mailto:sarangmasal.1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
 
 ---
 
