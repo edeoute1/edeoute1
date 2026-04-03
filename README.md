@@ -9,13 +9,12 @@
 </p>
 
 ---
-<div style="float:left">
+
 ## 🧠 About Me
 - 🤖 Building **Ball Balancing Robot**
 - 📡 Working with **ESP32, Sensors, Control Systems**
 - 🎯 Learning **Computer Vision + TensorFlow**
 - ⚡ Love combining **Hardware + AI**
-</div>
  <div style="float:right">
      <a href="https://www.linkedin.com/in/sarang-masal-4377a9273/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><t></t>
   <a href="mailto:sarangmasal.1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
