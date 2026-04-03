@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Robotics Engineer | Embedded Systems | AI Enthusiast | Cybersec Enthusiast | Front-end dev | </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Robotics+Engineer;ESP32+Developer;Computer+Vision+Builder;AI+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Robotics+Engineer;Embedded+Engineer;Computer+Vision+Builder;AI+Explorer&center=true&width=500&height=45">
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,opencv,tensorflow,html,css,js,r,mysql,java,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,opencv,html,css,js,r,mysql,java,matlab,bootstrap,aspnet,flask,thonny" />
 </p>
 
 ---
