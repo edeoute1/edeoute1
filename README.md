@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Robotics Engineer | Embedded Systems | AI Enthusiast | Cybersec Enthusiast | Front-end dev  </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Internal + pointer + variable.&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Internal+pointer+variable&center=true&width=500&height=45">
 </p>
 
 ---
