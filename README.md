@@ -11,9 +11,9 @@
 ---
 
 ## 🧠 About Me
-- 📡 Working with **ESP32, Sensors, Control Systems**
-- 🎯 Learning **Computer Vision + TensorFlow**
-- ⚡ Love combining **Hardware + AI**
+- I put my hands on everything i shouldn't **
+- craving to be a robotics engineer, may the wind sail along my way..**
+- LOve to do everything at once, which is also my drawback, cause it exhausted easily**
  <div align="right">
      <a href="https://www.linkedin.com/in/sarang-masal-4377a9273/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><t></t>
   <a href="mailto:sarangmasal.1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
